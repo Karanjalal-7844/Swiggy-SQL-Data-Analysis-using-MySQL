@@ -162,39 +162,31 @@ Generates a summary report for any city including:
 
 ---
 
+# 📁 Project Structure
 
-
-# 🚀 How to Run This Project
-
-### Step 1
-
-Clone this repository.
-
-```bash
-git clone https://github.com/yourusername/Swiggy-Food-Orders-Analysis.git
 ```
 
-### Step 2
-
-Open MySQL Workbench.
-
-### Step 3
-
-Create the database.
-
-### Step 4
-
-Import the Swiggy dataset using `LOAD DATA INFILE`.
-
-### Step 5
-
-Run the `Swiggy_Analysis.sql` file.
-
-### Step 6
-
-Execute the SQL queries and explore the results.
-
----
+Swiggy-SQL-Data-Analysis-using-MySQL
+│
+├── Dataset
+│   ├── Swiggy Raw Data CSV.csv
+│   └── Swiggy-SQL-Data-Analysis-using-MySQL.sql
+│
+├── Images
+│   ├── I-1.png
+│   ├── I-2.png
+│   ├── I-3.png
+│   ├── I-4.png
+│   ├── I-5.png
+│   ├── I-6.png
+│   ├── I-7.png
+│   ├── I-8.png
+│   ├── I-9.png
+│   ├── I-10.png
+│   └── I-11.png
+│
+└── README.md
+```
 
 # 💼 Skills Demonstrated
 
