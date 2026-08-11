@@ -165,14 +165,20 @@ Generates a summary report for any city including:
 # 📁 Project Structure
 
 ```
-
-Swiggy-SQL-Data-Analysis-using-MySQL
+Swiggy-SQL-Data-Analysis-using-MySQL/
 │
 ├── Dataset
 │   ├── Swiggy Raw Data CSV.csv
-│   └── Swiggy-SQL-Data-Analysis-using-MySQL.sql
 │
-├── Images
+├── sql/
+│   ├── 01_database_setup.sql
+│   ├── 02_data_loading.sql
+│   ├── 03_data_quality_checks.sql
+│   ├── 04_exploratory_analysis.sql
+│   ├── 05_business_analysis.sql
+│   └── 06_views_and_procedures.sql
+│
+├── Images/
 │   ├── I-1.png
 │   ├── I-2.png
 │   ├── I-3.png
